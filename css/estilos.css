@@ -1,7 +1,55 @@
 .container{
     margin-top: 5%;
+    margin-bottom: 5%;   
 }
 
 .Perfil{
-    margin-right: 8%;
+    margin-right:6%;
+}
+nav{
+    background-color: black;
+    color:white;
+}
+#id{
+   width: 100%;
+}
+#nombres{
+    width: 100%;
+ }
+#apellidos{
+    width: 100%;
+}
+#Correo{
+    width: 100%;
+}
+#numero{
+    width: 100%;
+}
+.card-header{
+    color: white;
+}
+.container{
+    padding-top: 3%;
+}
+.btn{
+    display: block;
+}
+.btn.green{
+    background-color:  #ffc107!important;
+    color: white;
+}
+.btn.red{
+    background-color: rgb(252, 65, 65);
+    color: white;
+}
+p {
+    color: rgb(0, 0, 0);
+    margin-top: 5%;
+}
+.logo img{
+    width: 45%;
+    height: auto;
+}
+.btn.white{
+    background-color: white;
 }
